@@ -1,4 +1,4 @@
-module github.com/awsdocs/aws-lambda-developer-guide/sample-apps/blank-go
+module github.com/vtesin/aws-lambda-developer-guide/sample-apps/blank-go
 
 go 1.14
 
